@@ -1,7 +1,7 @@
 # Phase 2 Delivery Report & Quality Gate Verification
 
 **Platform:** Enterprise Global Cyber Threat Intelligence Platform  
-**Target Deployment:** GitHub Pages (`/Cyber-Security-Dashboard/`)  
+**Target Deployment:** GitHub Pages (`/Cyber-Threat-Intelligence-Platform/`)  
 **Author:** Sulaiman Alhabsi  
 **Date:** October 10, 2026  
 **Status:** **PHASE 2 COMPLETE · QUALITY GATE PASSED**

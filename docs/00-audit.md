@@ -1,8 +1,8 @@
-# Comprehensive Audit: Legacy Cybersecurity Dashboard
+# Comprehensive Audit: Legacy Implementation
 
 **Date:** October 10, 2026  
 **Auditor:** Lead Threat Intelligence Engineer & Frontend Architect  
-**Repository:** [SulimanAl1/Cyber-Security-Dashboard](https://github.com/SulimanAl1/Cyber-Security-Dashboard)  
+**Repository:** [SulimanAl1/Cyber-Threat-Intelligence-Platform](https://github.com/SulimanAl1/Cyber-Threat-Intelligence-Platform)  
 **Target:** Legacy `index.html` (v2.5) & `README.md`
 
 ---

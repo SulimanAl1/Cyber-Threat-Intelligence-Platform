@@ -2,7 +2,7 @@
 
 **Author:** Sulaiman Alhabsi  
 **Audience:** SOC Engineering & Threat Intelligence Evaluation  
-**Base URL:** `/Cyber-Security-Dashboard/`
+**Base URL:** `/Cyber-Threat-Intelligence-Platform/`
 
 ---
 

@@ -1,7 +1,7 @@
 # Phase 3 Delivery Report & Final Quality Gate Verification
 
 **Platform:** Enterprise Global Cyber Threat Intelligence Operations Center  
-**Target Deployment:** GitHub Pages (`/Cyber-Security-Dashboard/`)  
+**Target Deployment:** GitHub Pages (`/Cyber-Threat-Intelligence-Platform/`)  
 **Author:** Sulaiman Alhabsi  
 **Date:** October 10, 2026  
 **Status:** **PHASE 3 COMPLETE · ALL PHASES PASSED**
@@ -70,5 +70,5 @@ Phase 3 (Analyst Tools & Optional Extras) has been fully built, rigorously teste
 | **Zero Third-Party CORS Proxy** | `corsproxy.io` eliminated | Ingestion runs server-side in GitHub Actions | **PASS** |
 | **Offline Vector Map** | Zero external tile requests | Bundled Natural Earth 110m GeoJSON via `d3-geo` | **PASS** |
 | **Data Integrity & Attribution** | No keyword-only attribution | 4-tier confidence system enforced throughout | **PASS** |
-| **Base Path Deep Linking** | No 404s on GitHub Pages | `HashRouter` with base path `/Cyber-Security-Dashboard/` | **PASS** |
+| **Base Path Deep Linking** | No 404s on GitHub Pages | `HashRouter` with base path `/Cyber-Threat-Intelligence-Platform/` | **PASS** |
 | **Secret Scan & Security** | Zero secrets in repo | Verified clean, `.env.example`, Dependabot active | **PASS** |

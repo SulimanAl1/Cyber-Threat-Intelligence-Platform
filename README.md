@@ -1,15 +1,15 @@
 # 🛡️ Global Cyber Threat Intelligence Operations Center (CTI-SOC)
 
-[![Static Quality Gate](https://img.shields.io/badge/Quality%20Gate-100%25%20Passing-emerald?style=flat-square&logo=githubactions)](https://github.com/SulimanAl1/Cyber-Security-Dashboard/actions)
+[![Static Quality Gate](https://img.shields.io/badge/Quality%20Gate-100%25%20Passing-emerald?style=flat-square&logo=githubactions)](https://github.com/SulimanAl1/Cyber-Threat-Intelligence-Platform/actions)
 [![Test Suite](https://img.shields.io/badge/Vitest-31%2F31%20Passing-cyan?style=flat-square&logo=vitest)](tests/)
 [![Architecture](https://img.shields.io/badge/Architecture-Static%20Ingestion%20Pipeline-blue?style=flat-square)](#-architecture--data-pipeline)
-[![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages%20Static-purple?style=flat-square&logo=githubpages)](https://sulimanal1.github.io/Cyber-Security-Dashboard/)
+[![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages%20Static-purple?style=flat-square&logo=githubpages)](https://sulimanal1.github.io/Cyber-Threat-Intelligence-Platform/)
 [![Author](https://img.shields.io/badge/Author-Sulaiman%20Alhabsi-amber?style=flat-square)](#-author--methodology)
 
 An enterprise-grade, serverless Global Cyber Threat Intelligence Platform built for automated ingestion, multi-source event clustering, transparent priority scoring, offline vector cartography, and rigorous MITRE ATT&CK attribution.
 
-**Live Platform:** [https://sulimanal1.github.io/Cyber-Security-Dashboard/](https://sulimanal1.github.io/Cyber-Security-Dashboard/)  
-**Base Path:** `/Cyber-Security-Dashboard/`  
+**Live Platform:** [https://sulimanal1.github.io/Cyber-Threat-Intelligence-Platform/](https://sulimanal1.github.io/Cyber-Threat-Intelligence-Platform/)  
+**Base Path:** `/Cyber-Threat-Intelligence-Platform/`  
 **Author:** Sulaiman Alhabsi
 
 ---
@@ -83,7 +83,7 @@ Unlike naive prototypes that rely on insecure public CORS proxies (`corsproxy.io
 ## 🛠️ Tech Stack & Engineering Standards
 
 - **Runtime & Build:** React 18, TypeScript (Strict Mode), Vite 6, Tailwind CSS v4.
-- **Routing:** React Router 7 (`HashRouter` prevents 404s on GitHub Pages refresh with base path `/Cyber-Security-Dashboard/`).
+- **Routing:** React Router 7 (`HashRouter` prevents 404s on GitHub Pages refresh with base path `/Cyber-Threat-Intelligence-Platform/`).
 - **Validation & Schemas:** Zod 3.24 runtime validation across all pipeline and snapshot payloads.
 - **Vector Projection:** `d3-geo` (WGS84 Natural Earth projection).
 - **Icons & UI:** Lucide React, color-blind safe severity tokens, SOC dark mode (`#070b14`).
@@ -96,15 +96,15 @@ Unlike naive prototypes that rely on insecure public CORS proxies (`corsproxy.io
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/SulimanAl1/Cyber-Security-Dashboard.git
-cd Cyber-Security-Dashboard
+git clone https://github.com/SulimanAl1/Cyber-Threat-Intelligence-Platform.git
+cd Cyber-Threat-Intelligence-Platform
 
 # 2. Install dependencies
 npm install
 
 # 3. Run development server
 npm run dev
-# Open http://localhost:5173/Cyber-Security-Dashboard/
+# Open http://localhost:5173/Cyber-Threat-Intelligence-Platform/
 
 # 4. Execute test suite (31 unit & flow integration tests)
 npm test
@@ -120,7 +120,7 @@ npm run pipeline:validate
 # 7. Production build & local preview
 npm run build
 npm run preview
-# Preview runs at http://localhost:4173/Cyber-Security-Dashboard/
+# Preview runs at http://localhost:4173/Cyber-Threat-Intelligence-Platform/
 ```
 
 ---

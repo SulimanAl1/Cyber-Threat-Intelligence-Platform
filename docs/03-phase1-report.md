@@ -1,7 +1,7 @@
 # Phase 1 Delivery Report & Quality Gate Verification
 
 **Platform:** Enterprise Global Cyber Threat Intelligence Platform  
-**Target Deployment:** GitHub Pages (`/Cyber-Security-Dashboard/`)  
+**Target Deployment:** GitHub Pages (`/Cyber-Threat-Intelligence-Platform/`)  
 **Author:** Sulaiman Alhabsi  
 **Date:** October 10, 2026  
 **Status:** **PHASE 1 COMPLETE · QUALITY GATE PASSED**
@@ -28,7 +28,7 @@ The platform operates autonomously without servers, databases, or paid APIs. It 
 | **Data Provenance & Status** | Every item tagged with verifiable status | Evidence-based status (`Confirmed`, `Reported`, `Claimed`) | **PASS** |
 | **Attribution Rigor** | No keyword-only attribution | 4-Tier confidence engine enforced | **PASS** |
 | **Zero Fake / Simulated Data** | Real live feeds only | 275 live incidents, 219 clusters, 1,739 KEV CVEs | **PASS** |
-| **Base Path Deep Linking** | No 404 on refresh on GH Pages | `HashRouter` with base path `/Cyber-Security-Dashboard/` | **PASS** |
+| **Base Path Deep Linking** | No 404 on refresh on GH Pages | `HashRouter` with base path `/Cyber-Threat-Intelligence-Platform/` | **PASS** |
 | **Secret Scan & Auditing** | Zero credentials in repo | Zero hardcoded keys, clean `.env.example`, Dependabot enabled | **PASS** |
 
 ---

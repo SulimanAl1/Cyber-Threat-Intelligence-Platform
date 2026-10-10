@@ -3,8 +3,8 @@
 
 **Project Title:** Global Cyber Threat Intelligence Operations Center  
 **Author:** Sulaiman Alhabsi  
-**Target Deployment:** GitHub Pages (`https://sulimanal1.github.io/Cyber-Security-Dashboard/`)  
-**Base Path:** `/Cyber-Security-Dashboard/`  
+**Target Deployment:** GitHub Pages (`https://sulimanal1.github.io/Cyber-Threat-Intelligence-Platform/`)  
+**Base Path:** `/Cyber-Threat-Intelligence-Platform/`  
 **Date:** October 10, 2026  
 **Final Status:** **ALL PHASES (1, 2, 3) 100% COMPLETE · QUALITY GATES VERIFIED**
 
@@ -127,7 +127,7 @@ The platform is designed to operate autonomously within the strict hosting const
 | **Zero Third-Party CORS Proxy** | `corsproxy.io` eliminated | Ingestion runs server-side in GitHub Actions | **PASS** |
 | **Offline Vector Map** | Zero external tile requests | Bundled Natural Earth 110m GeoJSON via `d3-geo` | **PASS** |
 | **Data Integrity & Attribution** | No keyword-only attribution | 4-tier confidence system enforced throughout | **PASS** |
-| **Base Path Deep Linking** | No 404s on GitHub Pages | `HashRouter` with base path `/Cyber-Security-Dashboard/` | **PASS** |
+| **Base Path Deep Linking** | No 404s on GitHub Pages | `HashRouter` with base path `/Cyber-Threat-Intelligence-Platform/` | **PASS** |
 | **Secret Scan & Security** | Zero secrets in repo | Verified clean, `.env.example`, Dependabot active | **PASS** |
 
 ---

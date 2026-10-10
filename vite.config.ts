@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/Cyber-Security-Dashboard/',
+  base: '/Cyber-Threat-Intelligence-Platform/',
   plugins: [
     react(),
     tailwindcss()
