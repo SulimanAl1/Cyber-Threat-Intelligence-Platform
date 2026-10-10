@@ -265,13 +265,13 @@ export const Overview: React.FC = () => {
           <div className="rounded-xl bg-slate-950 border border-slate-800/80 p-5 space-y-3 text-xs text-slate-400 leading-relaxed">
             <h4 className="font-bold text-slate-200 uppercase tracking-wider text-[11px] flex items-center gap-2">
               <Info className="w-4 h-4 text-cyan-400" />
-              <span>Scope & Academic Context</span>
+              <span>Scope & Architecture Note</span>
             </h4>
             <p>
               This platform aggregates cyber threat reports from connected public sources. It does not monitor all cyberattacks worldwide.
             </p>
             <p className="text-[11px] text-slate-400">
-              Developed for the <strong>Security and Networks</strong> course at <strong>Zayed University</strong> by <strong>Sulaiman Alhabsi</strong>.
+              Developed and engineered by <strong>Sulaiman Alhabsi</strong>.
             </p>
           </div>
         </div>

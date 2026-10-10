@@ -37,7 +37,7 @@ export const Header: React.FC<Props> = ({ onToggleMobileSidebar, onOpenSettings,
                 v3.0 SOC
               </span>
             </h1>
-            <p className="text-[10px] text-slate-400 hidden sm:block">Zayed University · Security and Networks</p>
+            <p className="text-[10px] text-slate-400 hidden sm:block">Threat Operations Center · Sulaiman Alhabsi</p>
           </div>
         </div>
       </div>

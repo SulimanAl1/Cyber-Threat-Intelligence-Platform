@@ -1,7 +1,7 @@
 # Platform Architecture & Engineering Decisions
 
-**Date:** October 10, 2026  
-**Audience:** Academic Evaluation Committee (Zayed University, Security and Networks) & SOC Engineering  
+**Author:** Sulaiman Alhabsi  
+**Audience:** SOC Engineering & Threat Intelligence Evaluation  
 **Base URL:** `/Cyber-Security-Dashboard/`
 
 ---

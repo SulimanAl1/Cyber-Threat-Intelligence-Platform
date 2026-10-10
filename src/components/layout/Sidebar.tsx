@@ -178,11 +178,10 @@ export const Sidebar: React.FC<Props> = ({ mobileOpen, onCloseMobile }) => {
           </div>
         </div>
 
-        {/* Academic / Author footer */}
+        {/* Author footer */}
         <div className="p-4 border-t border-slate-800 bg-slate-950/60 text-[11px] text-slate-400 space-y-1">
-          <div className="font-semibold text-slate-300">Zayed University</div>
-          <div>Security and Networks Project</div>
-          <div className="text-[10px] text-slate-400">Author: Sulaiman Alhabsi</div>
+          <div className="font-semibold text-slate-300">Sulaiman Alhabsi</div>
+          <div className="text-[10px] text-slate-400">Cyber Threat Intelligence Platform</div>
         </div>
       </aside>
     </>

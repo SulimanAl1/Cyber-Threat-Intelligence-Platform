@@ -14,7 +14,7 @@ export const Methodology: React.FC = () => {
       <div className="border-b border-slate-800 pb-4">
         <div className="flex items-center gap-2 text-cyan-400 text-xs font-mono mb-1">
           <GraduationCap className="w-4 h-4" />
-          <span>Zayed University · Security and Networks Specialization</span>
+          <span>Threat Operations Center · Sulaiman Alhabsi</span>
         </div>
         <h2 className="text-2xl font-black text-white tracking-tight">
           Platform Architecture & Threat Intelligence Methodology
@@ -143,13 +143,13 @@ export const Methodology: React.FC = () => {
       {/* Section 5: Academic Context & Limitations */}
       <div className="rounded-xl bg-slate-950 border border-slate-800 p-6 space-y-3 text-xs text-slate-400 leading-relaxed">
         <h3 className="text-sm font-bold uppercase tracking-wider text-white">
-          5. Dataset Limitations & Academic Notice
+          5. Dataset Limitations & Scope Notice
         </h3>
         <p>
           This dashboard monitors incidents reported by its connected public intelligence feeds. It does not possess omniscient visibility into all global cyber operations. Coverage exhibits reporting bias towards English-language technology publications, publicly disclosed enterprise incidents, and Western government advisories.
         </p>
         <p>
-          Prepared for academic review at <strong>Zayed University</strong>, College of Technological Innovation, <strong>Security and Networks</strong> course.
+          Engineered and authored by <strong>Sulaiman Alhabsi</strong>.
         </p>
       </div>
     </div>

@@ -9,7 +9,7 @@
 
 ## 1. Executive Summary
 
-The existing system is a prototype implemented as a single, monolithic 743-line `index.html` file. While it successfully demonstrates the concept of aggregating cybersecurity news and displaying alerts for an academic audience (Zayed University, Security and Networks), its architecture has fundamental reliability, security, and data integrity flaws that prevent production use in an operational Security Operations Center (SOC).
+The existing system is a prototype implemented as a single, monolithic 743-line `index.html` file. While it successfully demonstrates the concept of aggregating cybersecurity news and displaying alerts, its architecture has fundamental reliability, security, and data integrity flaws that prevent production use in an operational Security Operations Center (SOC).
 
 ---
 

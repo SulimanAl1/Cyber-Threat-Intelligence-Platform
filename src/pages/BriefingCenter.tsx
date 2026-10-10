@@ -92,7 +92,7 @@ export const BriefingCenter: React.FC = () => {
 **Classification:** ${tlp}
 **Date Generated:** ${dateStr}
 **Monitoring Window:** Past ${period.toUpperCase()}
-**Platform:** Zayed University Threat Intelligence Platform
+**Platform:** Cyber Threat Intelligence Platform · Sulaiman Alhabsi
 
 ---
 
@@ -296,7 +296,7 @@ ${relevantVulnerabilities
         {/* Document Header */}
         <div className="space-y-2 border-b border-slate-800 pb-6 print:border-slate-300">
           <div className="text-[10px] uppercase font-mono tracking-widest text-cyan-400 print:text-slate-600">
-            Zayed University Threat Operations Center
+            Threat Operations Center · Sulaiman Alhabsi
           </div>
           <h1 className="text-2xl md:text-3xl font-extrabold text-white print:text-black tracking-tight">
             Executive Cyber Threat Intelligence Dossier
@@ -472,10 +472,10 @@ ${relevantVulnerabilities
           </div>
         </div>
 
-        {/* Academic / Audit Stamp Footer */}
+        {/* Author / Audit Stamp Footer */}
         <div className="pt-6 border-t border-slate-800 print:border-slate-300 flex flex-col sm:flex-row items-center justify-between gap-2 text-[10px] text-slate-400 print:text-slate-600 font-mono">
-          <div>Zayed University · Security and Networks Specialization</div>
-          <div>Synthesized autonomously by Antigravity Pipeline Engine</div>
+          <div>Global Cyber Threat Intelligence Platform · Sulaiman Alhabsi</div>
+          <div>Synthesized autonomously by Threat Operations Pipeline Engine</div>
         </div>
       </div>
     </div>

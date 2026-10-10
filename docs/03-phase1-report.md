@@ -2,7 +2,6 @@
 
 **Platform:** Enterprise Global Cyber Threat Intelligence Platform  
 **Target Deployment:** GitHub Pages (`/Cyber-Security-Dashboard/`)  
-**Academic Affiliation:** Zayed University · Security and Networks  
 **Author:** Sulaiman Alhabsi  
 **Date:** October 10, 2026  
 **Status:** **PHASE 1 COMPLETE · QUALITY GATE PASSED**
@@ -62,7 +61,7 @@ The platform operates autonomously without servers, databases, or paid APIs. It 
 - **Per-Source Health Cards:** Live status chips (`Healthy`, `Degraded`, `Error`, `Not Configured`).
 
 ### 3.6. Methodology & Academic Defense (`src/pages/Methodology.tsx`)
-- **Pipeline Architecture:** Step-by-step documentation designed for live presentation to Zayed University faculty.
+- **Pipeline Architecture:** Step-by-step documentation detailing algorithmic deduplication, scoring models, and attribution criteria.
 - **Algorithm Transparency:** Mathematical formula for Priority Scoring, Jaccard title token deduplication parameters, and MITRE ATT&CK attribution criteria.
 - **Operational Scope Disclaimer:** Explicitly states the dashboard monitors reported incidents from connected feeds, not all worldwide attacks.
 

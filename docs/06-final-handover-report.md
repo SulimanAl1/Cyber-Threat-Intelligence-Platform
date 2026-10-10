@@ -1,9 +1,7 @@
 # Global Cyber Threat Intelligence Operations Center (CTI-SOC)
-## Final Architectural Handover & Academic Defense Report
+## Final Architectural Handover & Engineering Report
 
 **Project Title:** Global Cyber Threat Intelligence Operations Center  
-**Institution:** Zayed University · College of Technological Innovation  
-**Specialization:** Security and Networks  
 **Author:** Sulaiman Alhabsi  
 **Target Deployment:** GitHub Pages (`https://sulimanal1.github.io/Cyber-Security-Dashboard/`)  
 **Base Path:** `/Cyber-Security-Dashboard/`  

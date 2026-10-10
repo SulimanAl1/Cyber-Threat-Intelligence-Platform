@@ -4,13 +4,13 @@
 [![Test Suite](https://img.shields.io/badge/Vitest-31%2F31%20Passing-cyan?style=flat-square&logo=vitest)](tests/)
 [![Architecture](https://img.shields.io/badge/Architecture-Static%20Ingestion%20Pipeline-blue?style=flat-square)](#-architecture--data-pipeline)
 [![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages%20Static-purple?style=flat-square&logo=githubpages)](https://sulimanal1.github.io/Cyber-Security-Dashboard/)
-[![Academic Specialization](https://img.shields.io/badge/Zayed%20University-Security%20%26%20Networks-amber?style=flat-square)](#-academic-defense--methodology)
+[![Author](https://img.shields.io/badge/Author-Sulaiman%20Alhabsi-amber?style=flat-square)](#-author--methodology)
 
 An enterprise-grade, serverless Global Cyber Threat Intelligence Platform built for automated ingestion, multi-source event clustering, transparent priority scoring, offline vector cartography, and rigorous MITRE ATT&CK attribution.
 
 **Live Platform:** [https://sulimanal1.github.io/Cyber-Security-Dashboard/](https://sulimanal1.github.io/Cyber-Security-Dashboard/)  
 **Base Path:** `/Cyber-Security-Dashboard/`  
-**Author:** Sulaiman Alhabsi · Zayed University · Security and Networks Specialization
+**Author:** Sulaiman Alhabsi
 
 ---
 
@@ -125,9 +125,9 @@ npm run preview
 
 ---
 
-## 🎓 Academic Defense & Methodology
+## 👤 Author & Engineering Methodology
 
-Developed by **Sulaiman Alhabsi** for the **Security and Networks** specialization at **Zayed University**. Designed specifically for technical examination and live faculty defense:
+Developed and engineered by **Sulaiman Alhabsi**. Built with strict operational integrity and transparency:
 - **Explainability:** All classifications, scores, and attributions expose their exact decision rules and citations.
 - **Integrity:** Zero simulated, fake, or synthetic records in production feeds. Unknown locations remain strictly unpinned on maps.
 - **Reproducibility:** 100% of pipeline stages are automated pure functions with automated regression tests.

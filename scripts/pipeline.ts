@@ -57,7 +57,7 @@ async function fetchWithTimeout(url: string, timeoutMs = 12000): Promise<string>
     const res = await fetch(url, {
       signal: controller.signal,
       headers: {
-        'User-Agent': 'CyberSecurity-Threat-Intel-Platform/3.0 (Zayed-University; SOC-Research)'
+        'User-Agent': 'CyberSecurity-Threat-Intel-Platform/3.0 (Sulaiman-Alhabsi; Threat-Research)'
       }
     });
     if (!res.ok) throw new Error(`HTTP ${res.status} ${res.statusText}`);
