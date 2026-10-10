@@ -14,6 +14,12 @@ import { IncidentInvestigation } from './pages/IncidentInvestigation';
 import { SourceHealth } from './pages/SourceHealth';
 import { Methodology } from './pages/Methodology';
 
+// Phase 2 Pages
+import { GlobalThreatMap } from './pages/GlobalThreatMap';
+import { Analytics } from './pages/Analytics';
+import { ThreatActors } from './pages/ThreatActors';
+import { BriefingCenter } from './pages/BriefingCenter';
+
 export const AppContent: React.FC = () => {
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -41,6 +47,12 @@ export const AppContent: React.FC = () => {
             <Route path="/investigation" element={<IncidentInvestigation />} />
             <Route path="/sources" element={<SourceHealth />} />
             <Route path="/methodology" element={<Methodology />} />
+
+            {/* Phase 2 Routes */}
+            <Route path="/map" element={<GlobalThreatMap />} />
+            <Route path="/analytics" element={<Analytics />} />
+            <Route path="/actors" element={<ThreatActors />} />
+            <Route path="/briefing" element={<BriefingCenter />} />
 
             {/* Fallback */}
             <Route path="*" element={<Navigate to="/" replace />} />
