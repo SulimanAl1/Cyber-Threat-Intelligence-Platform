@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "3.0.0",
+  "generatedAt": "2026-10-10T09:36:38.572Z",
+  "incidentCount": 275,
+  "clusterCount": 219,
+  "vulnerabilityCount": 1739,
+  "actorCount": 30,
+  "indicatorCount": 51,
+  "dateRangeStart": "2020-01-28",
+  "dateRangeEnd": "2026-10-10"
+}

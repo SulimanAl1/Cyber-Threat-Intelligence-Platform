@@ -1,0 +1,63 @@
+name: "B - Build and Deploy to GitHub Pages"
+
+on:
+  push:
+    branches:
+      - main
+  workflow_run:
+    workflows: ["A - Ingestion Data Refresh Pipeline"]
+    types:
+      - completed
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js 22
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Run Quality Gate (Code Changes Only)
+        # Full test suite and type checking block deployment on code pushes
+        if: github.event_name == 'push' || github.event_name == 'workflow_dispatch'
+        run: |
+          npm run type-check
+          npm test
+
+      - name: Validate Snapshot Schemas (Data Trigger)
+        # Scheduled data refreshes only run schema validation gate
+        if: github.event_name == 'workflow_run'
+        run: npm run pipeline:validate
+
+      - name: Build Vite Production Application
+        run: npm run build
+
+      - name: Setup GitHub Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages Artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dist'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

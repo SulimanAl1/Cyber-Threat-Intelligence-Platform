@@ -1,0 +1,809 @@
+[
+  {
+    "id": "actor-00f67a77-86a4-4adf-be26-1a54fc713340",
+    "name": "APT38",
+    "aliases": [
+      "APT38",
+      "NICKEL GLADSTONE",
+      "BeagleBoyz",
+      "Bluenoroff",
+      "Stardust Chollima",
+      "Sapphire Sleet",
+      "COPERNICIUM"
+    ],
+    "description": "[APT38](https://attack.mitre.org/groups/G0082) is a North Korean state-sponsored threat group that specializes in financial cyber operations; it has been attributed to the Reconnaissance General Bureau.(Citation: CISA AA20-239A BeagleBoyz August 2020) Active since at least 2014, [APT38](https://attack.mitre.org/groups/G0082) has targeted banks, financial institutions, casinos, cryptocurrency excha",
+    "mitreId": "G0082",
+    "mitreUrl": "https://attack.mitre.org/groups/G0082",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-01e28736-2ffc-455b-9880-ed4d1407ae07",
+    "name": "Indrik Spider",
+    "aliases": [
+      "Indrik Spider",
+      "Evil Corp",
+      "Manatee Tempest",
+      "DEV-0243",
+      "UNC2165"
+    ],
+    "description": "[Indrik Spider](https://attack.mitre.org/groups/G0119) is a Russia-based cybercriminal group that has been active since at least 2014. [Indrik Spider](https://attack.mitre.org/groups/G0119) initially started with the [Dridex](https://attack.mitre.org/software/S0384) banking Trojan, and then by 2017 they began running ransomware operations using [BitPaymer](https://attack.mitre.org/software/S0570),",
+    "mitreId": "G0119",
+    "mitreUrl": "https://attack.mitre.org/groups/G0119",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-025bdaa9-897d-4bad-afa6-013ba5734653",
+    "name": "NEODYMIUM",
+    "aliases": [
+      "NEODYMIUM"
+    ],
+    "description": "[NEODYMIUM](https://attack.mitre.org/groups/G0055) is an activity group that conducted a campaign in May 2016 and has heavily targeted Turkish victims. The group has demonstrated similarity to another activity group called [PROMETHIUM](https://attack.mitre.org/groups/G0056) due to overlapping victim and campaign characteristics. (Citation: Microsoft NEODYMIUM Dec 2016) (Citation: Microsoft SIR Vol",
+    "mitreId": "G0055",
+    "mitreUrl": "https://attack.mitre.org/groups/G0055",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-02b16bd6-ae88-417a-8a3f-02c5e166175a",
+    "name": "BlackByte",
+    "aliases": [
+      "BlackByte",
+      "Hecamede"
+    ],
+    "description": "[BlackByte](https://attack.mitre.org/groups/G1043) is a ransomware threat actor operating since at least 2021. [BlackByte](https://attack.mitre.org/groups/G1043) is associated with several versions of ransomware also labeled [BlackByte Ransomware](https://attack.mitre.org/software/S1180). [BlackByte](https://attack.mitre.org/groups/G1043) ransomware operations initially used a common encryption ke",
+    "mitreId": "G1043",
+    "mitreUrl": "https://attack.mitre.org/groups/G1043",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-03506554-5f37-4f8f-9ce4-0e9f01a1b484",
+    "name": "Elderwood",
+    "aliases": [
+      "Elderwood",
+      "Elderwood Gang",
+      "Beijing Group",
+      "Sneaky Panda"
+    ],
+    "description": "[Elderwood](https://attack.mitre.org/groups/G0066) is a suspected Chinese cyber espionage group that was reportedly responsible for the 2009 Google intrusion known as Operation Aurora. (Citation: Security Affairs Elderwood Sept 2012) The group has targeted defense organizations, supply chain manufacturers, human rights and nongovernmental organizations (NGOs), and IT service providers. (Citation: ",
+    "mitreId": "G0066",
+    "mitreUrl": "https://attack.mitre.org/groups/G0066",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-03be849d-b5a2-4766-9dda-48976bae5710",
+    "name": "SideCopy",
+    "aliases": [
+      "SideCopy"
+    ],
+    "description": "[SideCopy](https://attack.mitre.org/groups/G1008) is a Pakistani threat group that has primarily targeted South Asian countries, including Indian and Afghani government personnel, since at least 2019. [SideCopy](https://attack.mitre.org/groups/G1008)'s name comes from its infection chain that tries to mimic that of [Sidewinder](https://attack.mitre.org/groups/G0121), a suspected Indian threat grou",
+    "mitreId": "G1008",
+    "mitreUrl": "https://attack.mitre.org/groups/G1008",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-06a11b7e-2a36-47fe-8d3e-82c265df3258",
+    "name": "GALLIUM",
+    "aliases": [
+      "GALLIUM",
+      "Granite Typhoon"
+    ],
+    "description": "[GALLIUM](https://attack.mitre.org/groups/G0093) is a cyberespionage group that has been active since at least 2012, primarily targeting telecommunications companies, financial institutions, and government entities in Afghanistan, Australia, Belgium, Cambodia, Malaysia, Mozambique, the Philippines, Russia, and Vietnam. This group is particularly known for launching Operation Soft Cell, a long-term",
+    "mitreId": "G0093",
+    "mitreUrl": "https://attack.mitre.org/groups/G0093",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-090242d7-73fc-4738-af68-20162f7a5aae",
+    "name": "APT17",
+    "aliases": [
+      "APT17",
+      "Deputy Dog"
+    ],
+    "description": "[APT17](https://attack.mitre.org/groups/G0025) is a China-based threat group that has conducted network intrusions against U.S. government entities, the defense industry, law firms, information technology companies, mining companies, and non-government organizations. (Citation: FireEye APT17)",
+    "mitreId": "G0025",
+    "mitreUrl": "https://attack.mitre.org/groups/G0025",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-0bbdf25b-30ff-4894-a1cd-49260d0dd2d9",
+    "name": "APT3",
+    "aliases": [
+      "APT3",
+      "Gothic Panda",
+      "Pirpi",
+      "UPS Team",
+      "Buckeye",
+      "Threat Group-0110",
+      "TG-0110"
+    ],
+    "description": "[APT3](https://attack.mitre.org/groups/G0022) is a China-based threat group that researchers have attributed to China's Ministry of State Security.(Citation: FireEye Clandestine Wolf)(Citation: Recorded Future APT3 May 2017) This group is responsible for the campaigns known as Operation Clandestine Fox, Operation Clandestine Wolf, and Operation Double Tap.(Citation: FireEye Clandestine Wolf)(Citat",
+    "mitreId": "G0022",
+    "mitreUrl": "https://attack.mitre.org/groups/G0022",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-0d4ac089-ced4-4cc4-a989-174d08e6d030",
+    "name": "Mustard Tempest",
+    "aliases": [
+      "Mustard Tempest",
+      "DEV-0206",
+      "TA569",
+      "GOLD PRELUDE",
+      "UNC1543"
+    ],
+    "description": "[Mustard Tempest](https://attack.mitre.org/groups/G1020) is an initial access broker that has operated the [SocGholish](https://attack.mitre.org/software/S1124) distribution network since at least 2017. [Mustard Tempest](https://attack.mitre.org/groups/G1020) has partnered with [Indrik Spider](https://attack.mitre.org/groups/G0119) to provide access for the download of additional malware including",
+    "mitreId": "G1020",
+    "mitreUrl": "https://attack.mitre.org/groups/G1020",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-0ea72cd5-ca30-46ba-bc04-378f701c658f",
+    "name": "GCMAN",
+    "aliases": [
+      "GCMAN"
+    ],
+    "description": "[GCMAN](https://attack.mitre.org/groups/G0036) is a threat group that focuses on targeting banks for the purpose of transferring money to e-currency services. (Citation: Securelist GCMAN)",
+    "mitreId": "G0036",
+    "mitreUrl": "https://attack.mitre.org/groups/G0036",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-0ec2f388-bf0f-4b5c-97b1-fc736d26c25f",
+    "name": "Kimsuky",
+    "aliases": [
+      "Kimsuky",
+      "Black Banshee",
+      "Velvet Chollima",
+      "Emerald Sleet",
+      "THALLIUM",
+      "APT43",
+      "TA427",
+      "Springtail",
+      "Earth Kumiho",
+      "PatheticSlug"
+    ],
+    "description": "[Kimsuky](https://attack.mitre.org/groups/G0094) is a Democratic People's Republic of Korea (DPRK)-based cyber espionage group that has been active since at least 2012. The group initially targeted South Korean government agencies, think tanks, and subject-matter experts in various fields. Its operations expanded to include the United Nations and organizations in the government, education, busines",
+    "mitreId": "G0094",
+    "mitreUrl": "https://attack.mitre.org/groups/G0094",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-129f2f77-1ab2-4c35-bd5e-21260cee92af",
+    "name": "EXOTIC LILY",
+    "aliases": [
+      "EXOTIC LILY"
+    ],
+    "description": "[EXOTIC LILY](https://attack.mitre.org/groups/G1011) is a financially motivated group that has been closely linked with [Wizard Spider](https://attack.mitre.org/groups/G0102) and the deployment of ransomware including [Conti](https://attack.mitre.org/software/S0575) and [Diavol](https://attack.mitre.org/software/S0659). [EXOTIC LILY](https://attack.mitre.org/groups/G1011) may be acting as an initi",
+    "mitreId": "G1011",
+    "mitreUrl": "https://attack.mitre.org/groups/G1011",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-13ef3485-70d2-4567-b934-0e83c1eafcf1",
+    "name": "TA577",
+    "aliases": [
+      "TA577"
+    ],
+    "description": "[TA577](https://attack.mitre.org/groups/G1037) is an initial access broker (IAB) that has distributed [QakBot](https://attack.mitre.org/software/S0650) and [Pikabot](https://attack.mitre.org/software/S1145), and was among the first observed groups distributing [Latrodectus](https://attack.mitre.org/software/S1160) in 2023.(Citation: Latrodectus APR 2024)",
+    "mitreId": "G1037",
+    "mitreUrl": "https://attack.mitre.org/groups/G1037",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-14225573-63b5-4e50-ba9a-5fdcaf6a7b4c",
+    "name": "AppleJeus",
+    "aliases": [
+      "AppleJeus",
+      "Gleaming Pisces",
+      "Citrine Sleet",
+      "UNC1720",
+      "UNC4736"
+    ],
+    "description": "[AppleJeus](https://attack.mitre.org/groups/G1049) is a North Korean state-sponsored threat group attributed to the Reconnaissance General Bureau. Associated with the broader [Lazarus Group](https://attack.mitre.org/groups/G0032) umbrella of actors, [AppleJeus](https://attack.mitre.org/groups/G1049) has been active since at least 2018 and is closely aligned in resources with TEMP.hermit, another D",
+    "mitreId": "G1049",
+    "mitreUrl": "https://attack.mitre.org/groups/G1049",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-16ade1aa-0ea1-4bb7-88cc-9079df2ae756",
+    "name": "admin@338",
+    "aliases": [
+      "admin@338"
+    ],
+    "description": "[admin@338](https://attack.mitre.org/groups/G0018) is a China-based cyber threat group. It has previously used newsworthy events as lures to deliver malware and has primarily targeted organizations involved in financial, economic, and trade policy, typically using publicly available RATs such as [PoisonIvy](https://attack.mitre.org/software/S0012), as well as some non-public backdoors. (Citation: ",
+    "mitreId": "G0018",
+    "mitreUrl": "https://attack.mitre.org/groups/G0018",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-174279b4-399f-4ddb-966e-5efedd1dd5f2",
+    "name": "Volt Typhoon",
+    "aliases": [
+      "Volt Typhoon",
+      "BRONZE SILHOUETTE",
+      "Vanguard Panda",
+      "DEV-0391",
+      "UNC3236",
+      "Voltzite",
+      "Insidious Taurus",
+      "DazedToad"
+    ],
+    "description": "[Volt Typhoon](https://attack.mitre.org/groups/G1017) is a People's Republic of China (PRC) state-sponsored actor that has been active since at least 2021, primarily targeting critical infrastructure organizations in the US and its territories including Guam. [Volt Typhoon](https://attack.mitre.org/groups/G1017)'s targeting and pattern of behavior have been assessed as pre-positioning to enable la",
+    "mitreId": "G1017",
+    "mitreUrl": "https://attack.mitre.org/groups/G1017",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-17862c7d-9e60-48a0-b48e-da4dc4c3f6b0",
+    "name": "Patchwork",
+    "aliases": [
+      "Patchwork",
+      "Hangover Group",
+      "Dropping Elephant",
+      "Chinastrats",
+      "MONSOON",
+      "Operation Hangover"
+    ],
+    "description": "[Patchwork](https://attack.mitre.org/groups/G0040) is a cyber espionage group that was first observed in December 2015. While the group has not been definitively attributed, circumstantial evidence suggests the group may be a pro-Indian or Indian entity. [Patchwork](https://attack.mitre.org/groups/G0040) has been seen targeting industries related to diplomatic and government agencies. Much of the ",
+    "mitreId": "G0040",
+    "mitreUrl": "https://attack.mitre.org/groups/G0040",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-18854f55-ac7c-4634-bd9a-352dd07613b7",
+    "name": "APT41",
+    "aliases": [
+      "APT41",
+      "Wicked Panda",
+      "Brass Typhoon",
+      "BARIUM"
+    ],
+    "description": "[APT41](https://attack.mitre.org/groups/G0096) is a threat group that researchers have assessed as Chinese state-sponsored espionage group that also conducts financially-motivated operations. Active since at least 2012, [APT41](https://attack.mitre.org/groups/G0096) has been observed targeting various industries, including but not limited to healthcare, telecom, technology, finance, education, ret",
+    "mitreId": "G0096",
+    "mitreUrl": "https://attack.mitre.org/groups/G0096",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-1c3dcf91-b859-4aae-a09c-ae26dc8b6390",
+    "name": "Salt Typhoon",
+    "aliases": [
+      "Salt Typhoon"
+    ],
+    "description": "[Salt Typhoon](https://attack.mitre.org/groups/G1045) is a People's Republic of China (PRC) state-backed actor that has been active since at least 2019 and responsible for numerous compromises of network infrastructure at major U.S. telecommunication and internet service providers (ISP).(Citation: US Dept. of Treasury Salt Typhoon JAN 2025)(Citation: Cisco Salt Typhoon FEB 2025)",
+    "mitreId": "G1045",
+    "mitreUrl": "https://attack.mitre.org/groups/G1045",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-1c63d4ec-0a75-4daa-b1df-0d11af3d3cc1",
+    "name": "Dragonfly",
+    "aliases": [
+      "Dragonfly",
+      "TEMP.Isotope",
+      "DYMALLOY",
+      "Berserk Bear",
+      "TG-4192",
+      "Crouching Yeti",
+      "IRON LIBERTY",
+      "Energetic Bear",
+      "Ghost Blizzard",
+      "BROMINE"
+    ],
+    "description": "[Dragonfly](https://attack.mitre.org/groups/G0035) is a cyber espionage group that has been attributed to Russia's Federal Security Service (FSB) Center 16.(Citation: DOJ Russia Targeting Critical Infrastructure March 2022)(Citation: UK GOV FSB Factsheet April 2022) Active since at least 2010, [Dragonfly](https://attack.mitre.org/groups/G0035) has targeted defense and aviation companies, governmen",
+    "mitreId": "G0035",
+    "mitreUrl": "https://attack.mitre.org/groups/G0035",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-1f0f9a14-11aa-49aa-9174-bcd0eaa979de",
+    "name": "Evilnum",
+    "aliases": [
+      "Evilnum"
+    ],
+    "description": "[Evilnum](https://attack.mitre.org/groups/G0120) is a financially motivated threat group that has been active since at least 2018.(Citation: ESET EvilNum July 2020)",
+    "mitreId": "G0120",
+    "mitreUrl": "https://attack.mitre.org/groups/G0120",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-1f21da59-6a13-455b-afd0-d58d0a5a7d27",
+    "name": "Gorgon Group",
+    "aliases": [
+      "Gorgon Group"
+    ],
+    "description": "[Gorgon Group](https://attack.mitre.org/groups/G0078) is a threat group consisting of members who are suspected to be Pakistan-based or have other connections to Pakistan. The group has performed a mix of criminal and targeted attacks, including campaigns against government organizations in the United Kingdom, Spain, Russia, and the United States. (Citation: Unit 42 Gorgon Group Aug 2018)",
+    "mitreId": "G0078",
+    "mitreUrl": "https://attack.mitre.org/groups/G0078",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-222fbd21-fc4f-4b7e-9f85-0e6e3a76c33f",
+    "name": "menuPass",
+    "aliases": [
+      "menuPass",
+      "Cicada",
+      "POTASSIUM",
+      "Stone Panda",
+      "APT10",
+      "Red Apollo",
+      "CVNX",
+      "HOGFISH",
+      "BRONZE RIVERSIDE"
+    ],
+    "description": "[menuPass](https://attack.mitre.org/groups/G0045) is a threat group that has been active since at least 2006. Individual members of [menuPass](https://attack.mitre.org/groups/G0045) are known to have acted in association with the Chinese Ministry of State Security's (MSS) Tianjin State Security Bureau and worked for the Huaying Haitai Science and Technology Development Company.(Citation: DOJ APT10",
+    "mitreId": "G0045",
+    "mitreUrl": "https://attack.mitre.org/groups/G0045",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-23b6a0f5-fa95-46f9-a6f3-4549c5e45ec8",
+    "name": "Night Dragon",
+    "aliases": [
+      "Night Dragon"
+    ],
+    "description": "[Night Dragon](https://attack.mitre.org/groups/G0014) is a campaign name for activity involving a threat group that has conducted activity originating primarily in China. (Citation: McAfee Night Dragon)",
+    "mitreId": "G0014",
+    "mitreUrl": "https://attack.mitre.org/groups/G0014",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-247cb30b-955f-42eb-97a5-a89fef69341e",
+    "name": "APT32",
+    "aliases": [
+      "APT32",
+      "SeaLotus",
+      "OceanLotus",
+      "APT-C-00",
+      "Canvas Cyclone",
+      "BISMUTH"
+    ],
+    "description": "[APT32](https://attack.mitre.org/groups/G0050) is a suspected Vietnam-based threat group that has been active since at least 2014. The group has targeted multiple private sector industries as well as foreign governments, dissidents, and journalists with a strong focus on Southeast Asian countries like Vietnam, the Philippines, Laos, and Cambodia. They have extensively used strategic web compromise",
+    "mitreId": "G0050",
+    "mitreUrl": "https://attack.mitre.org/groups/G0050",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-2688b13e-8e71-405a-9c40-0dee94bddf87",
+    "name": "HAFNIUM",
+    "aliases": [
+      "HAFNIUM",
+      "Operation Exchange Marauder",
+      "Silk Typhoon"
+    ],
+    "description": "[HAFNIUM](https://attack.mitre.org/groups/G0125) is a likely state-sponsored cyber espionage group operating out of China that has been active since at least January 2021. [HAFNIUM](https://attack.mitre.org/groups/G0125) primarily targets entities in the US across a number of industry sectors, including infectious disease researchers, law firms, higher education institutions, defense contractors, ",
+    "mitreId": "G0125",
+    "mitreUrl": "https://attack.mitre.org/groups/G0125",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-269e8108-68c6-4f99-b911-14b2e765dec2",
+    "name": "MuddyWater",
+    "aliases": [
+      "MuddyWater",
+      "Earth Vetala",
+      "MERCURY",
+      "Static Kitten",
+      "Seedworm",
+      "TEMP.Zagros",
+      "Mango Sandstorm",
+      "TA450",
+      "MuddyKrill"
+    ],
+    "description": "[MuddyWater](https://attack.mitre.org/groups/G0069) is a cyber espionage group assessed to be a subordinate element within Iran's Ministry of Intelligence and Security (MOIS).(Citation: CYBERCOM Iranian Intel Cyber January 2022) Since at least 2017, [MuddyWater](https://attack.mitre.org/groups/G0069) has targeted a range of government and private organizations across sectors, including telecommuni",
+    "mitreId": "G0069",
+    "mitreUrl": "https://attack.mitre.org/groups/G0069",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-277d2f87-2ae5-4730-a3aa-50c1fdff9656",
+    "name": "Strider",
+    "aliases": [
+      "Strider",
+      "ProjectSauron"
+    ],
+    "description": "[Strider](https://attack.mitre.org/groups/G0041) is a threat group that has been active since at least 2011 and has targeted victims in Russia, China, Sweden, Belgium, Iran, and Rwanda.(Citation: Symantec Strider Blog)(Citation: Kaspersky ProjectSauron Blog)",
+    "mitreId": "G0041",
+    "mitreUrl": "https://attack.mitre.org/groups/G0041",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  },
+  {
+    "id": "actor-28f04ed3-8e91-4805-b1f6-869020517871",
+    "name": "Operation Wocao",
+    "aliases": [
+      "Operation Wocao"
+    ],
+    "description": "[Operation Wocao](https://attack.mitre.org/groups/G0116) described activities carried out by a China-based cyber espionage adversary. [Operation Wocao](https://attack.mitre.org/groups/G0116) targeted entities within the government, managed service providers, energy, health care, and technology sectors across several countries, including China, France, Germany, the United Kingdom, and the United St",
+    "mitreId": "G0116",
+    "mitreUrl": "https://attack.mitre.org/groups/G0116",
+    "techniques": [],
+    "software": [],
+    "targetSectors": [
+      "Critical Infrastructure",
+      "Government",
+      "Financial Services"
+    ],
+    "targetCountries": [
+      "United States",
+      "United Kingdom",
+      "European Union",
+      "Global"
+    ],
+    "linkedIncidentIds": []
+  }
+]
