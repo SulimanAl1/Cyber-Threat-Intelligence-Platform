@@ -1,8 +1,8 @@
 {
   "schemaVersion": "3.0.0",
-  "generatedAt": "2026-10-10T09:36:38.572Z",
-  "incidentCount": 275,
-  "clusterCount": 219,
+  "generatedAt": "2026-10-10T11:46:48.134Z",
+  "incidentCount": 280,
+  "clusterCount": 223,
   "vulnerabilityCount": 1739,
   "actorCount": 30,
   "indicatorCount": 51,

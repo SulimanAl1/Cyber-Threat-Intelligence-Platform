@@ -12,7 +12,7 @@
     "firstSeen": "2025-12-30 13:56:31"
   },
   {
-    "id": "ind-tf-dyxrf",
+    "id": "ind-tf-qtfa1",
     "type": "ip",
     "value": "47.95.207.79:443",
     "defangedValue": "47[.]95[.]207[.]79:443",
@@ -21,10 +21,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-en5al",
+    "id": "ind-tf-ceq2e",
     "type": "ip",
     "value": "121.37.255.60:443",
     "defangedValue": "121[.]37[.]255[.]60:443",
@@ -33,10 +33,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-4r8l4",
+    "id": "ind-tf-3ys8p",
     "type": "ip",
     "value": "139.198.183.44:443",
     "defangedValue": "139[.]198[.]183[.]44:443",
@@ -45,10 +45,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-tj93w",
+    "id": "ind-tf-65g9s",
     "type": "ip",
     "value": "23.224.152.139:443",
     "defangedValue": "23[.]224[.]152[.]139:443",
@@ -57,10 +57,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-zzobc",
+    "id": "ind-tf-t1yrp",
     "type": "ip",
     "value": "111.230.196.200:443",
     "defangedValue": "111[.]230[.]196[.]200:443",
@@ -69,10 +69,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-k82d5",
+    "id": "ind-tf-gwjzg",
     "type": "domain",
     "value": "fivepointschiro.com",
     "defangedValue": "fivepointschiro[.]com",
@@ -81,10 +81,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-vc08k",
+    "id": "ind-tf-9018n",
     "type": "ip",
     "value": "104.128.92.144:443",
     "defangedValue": "104[.]128[.]92[.]144:443",
@@ -93,10 +93,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-d83j4",
+    "id": "ind-tf-9qbp6",
     "type": "ip",
     "value": "107.173.89.148:443",
     "defangedValue": "107[.]173[.]89[.]148:443",
@@ -105,10 +105,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-x77er",
+    "id": "ind-tf-65qnk",
     "type": "ip",
     "value": "62.113.255.12:443",
     "defangedValue": "62[.]113[.]255[.]12:443",
@@ -117,10 +117,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-hrrex",
+    "id": "ind-tf-28uln",
     "type": "ip",
     "value": "101.32.204.81:443",
     "defangedValue": "101[.]32[.]204[.]81:443",
@@ -129,10 +129,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-dkn1u",
+    "id": "ind-tf-f1ydg",
     "type": "ip",
     "value": "77.83.36.54:443",
     "defangedValue": "77[.]83[.]36[.]54:443",
@@ -141,10 +141,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-c9c56",
+    "id": "ind-tf-8mj56",
     "type": "ip",
     "value": "39.104.25.164:443",
     "defangedValue": "39[.]104[.]25[.]164:443",
@@ -153,10 +153,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-kfi31",
+    "id": "ind-tf-eqn8i",
     "type": "ip",
     "value": "39.98.48.153:443",
     "defangedValue": "39[.]98[.]48[.]153:443",
@@ -165,10 +165,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.394Z"
   },
   {
-    "id": "ind-tf-hc0lw",
+    "id": "ind-tf-cxumj",
     "type": "ip",
     "value": "81.68.225.136:443",
     "defangedValue": "81[.]68[.]225[.]136:443",
@@ -177,10 +177,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-cy2vf",
+    "id": "ind-tf-fnzuv",
     "type": "ip",
     "value": "149.255.35.131:443",
     "defangedValue": "149[.]255[.]35[.]131:443",
@@ -189,10 +189,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-sm3fp",
+    "id": "ind-tf-acm2c",
     "type": "ip",
     "value": "217.79.243.148:443",
     "defangedValue": "217[.]79[.]243[.]148:443",
@@ -201,10 +201,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-fhgb8",
+    "id": "ind-tf-64uy8",
     "type": "ip",
     "value": "23.227.198.246:443",
     "defangedValue": "23[.]227[.]198[.]246:443",
@@ -213,10 +213,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-fi3fq",
+    "id": "ind-tf-ayv6t",
     "type": "domain",
     "value": "citrixseruritys.com",
     "defangedValue": "citrixseruritys[.]com",
@@ -225,10 +225,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-c5dbl",
+    "id": "ind-tf-n1fhy",
     "type": "domain",
     "value": "milanvar.com",
     "defangedValue": "milanvar[.]com",
@@ -237,10 +237,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-3gjqo",
+    "id": "ind-tf-tpduz",
     "type": "ip",
     "value": "193.201.9.229:443",
     "defangedValue": "193[.]201[.]9[.]229:443",
@@ -249,10 +249,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-o2m7x",
+    "id": "ind-tf-dte5v",
     "type": "ip",
     "value": "107.172.219.129:443",
     "defangedValue": "107[.]172[.]219[.]129:443",
@@ -261,10 +261,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-go1gu",
+    "id": "ind-tf-8st07",
     "type": "ip",
     "value": "146.70.29.233:443",
     "defangedValue": "146[.]70[.]29[.]233:443",
@@ -273,10 +273,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-i0i07",
+    "id": "ind-tf-41pvu",
     "type": "ip",
     "value": "192.227.155.185:443",
     "defangedValue": "192[.]227[.]155[.]185:443",
@@ -285,10 +285,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-ar8y7",
+    "id": "ind-tf-zxoss",
     "type": "ip",
     "value": "101.34.182.130:443",
     "defangedValue": "101[.]34[.]182[.]130:443",
@@ -297,10 +297,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-vljzt",
+    "id": "ind-tf-gb4yj",
     "type": "domain",
     "value": "bornometa.com",
     "defangedValue": "bornometa[.]com",
@@ -309,10 +309,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-o0hhg",
+    "id": "ind-tf-g51v5",
     "type": "domain",
     "value": "jenevabaiden.com",
     "defangedValue": "jenevabaiden[.]com",
@@ -321,10 +321,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-r1l88",
+    "id": "ind-tf-jmdzg",
     "type": "domain",
     "value": "sbronm.com",
     "defangedValue": "sbronm[.]com",
@@ -333,10 +333,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-rb5u1",
+    "id": "ind-tf-4rv96",
     "type": "ip",
     "value": "168.61.180.98:443",
     "defangedValue": "168[.]61[.]180[.]98:443",
@@ -345,10 +345,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-ybeg7",
+    "id": "ind-tf-5115q",
     "type": "ip",
     "value": "45.55.36.143:443",
     "defangedValue": "45[.]55[.]36[.]143:443",
@@ -357,10 +357,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-e4mrc",
+    "id": "ind-tf-jsav3",
     "type": "ip",
     "value": "64.227.0.177:443",
     "defangedValue": "64[.]227[.]0[.]177:443",
@@ -369,10 +369,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-c5tlx",
+    "id": "ind-tf-g8yjf",
     "type": "ip",
     "value": "161.35.137.163:443",
     "defangedValue": "161[.]35[.]137[.]163:443",
@@ -381,10 +381,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-drwh5",
+    "id": "ind-tf-eucfz",
     "type": "ip",
     "value": "165.227.23.218:443",
     "defangedValue": "165[.]227[.]23[.]218:443",
@@ -393,10 +393,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-d9v8l",
+    "id": "ind-tf-shopu",
     "type": "ip",
     "value": "178.128.171.206:443",
     "defangedValue": "178[.]128[.]171[.]206:443",
@@ -405,10 +405,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-jk5kt",
+    "id": "ind-tf-jpths",
     "type": "ip",
     "value": "143.198.110.248:443",
     "defangedValue": "143[.]198[.]110[.]248:443",
@@ -417,10 +417,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-75qm4",
+    "id": "ind-tf-rrrga",
     "type": "ip",
     "value": "165.232.154.73:443",
     "defangedValue": "165[.]232[.]154[.]73:443",
@@ -429,10 +429,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-dzj5l",
+    "id": "ind-tf-9veuj",
     "type": "ip",
     "value": "165.227.219.211:443",
     "defangedValue": "165[.]227[.]219[.]211:443",
@@ -441,10 +441,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-uv43u",
+    "id": "ind-tf-hitrp",
     "type": "ip",
     "value": "138.68.227.71:443",
     "defangedValue": "138[.]68[.]227[.]71:443",
@@ -453,10 +453,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-jn0i3",
+    "id": "ind-tf-drmpq",
     "type": "ip",
     "value": "68.183.200.63:443",
     "defangedValue": "68[.]183[.]200[.]63:443",
@@ -465,10 +465,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-5ybik",
+    "id": "ind-tf-wkhwo",
     "type": "ip",
     "value": "159.65.246.188:443",
     "defangedValue": "159[.]65[.]246[.]188:443",
@@ -477,10 +477,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-j0zlh",
+    "id": "ind-tf-kflp9",
     "type": "ip",
     "value": "192.241.133.130:443",
     "defangedValue": "192[.]241[.]133[.]130:443",
@@ -489,10 +489,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-zqhbc",
+    "id": "ind-tf-nzfq3",
     "type": "domain",
     "value": "lifegothistory.com",
     "defangedValue": "lifegothistory[.]com",
@@ -501,10 +501,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-tjnow",
+    "id": "ind-tf-h0djn",
     "type": "domain",
     "value": "defegh.com",
     "defangedValue": "defegh[.]com",
@@ -513,10 +513,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-keuqi",
+    "id": "ind-tf-bomgj",
     "type": "domain",
     "value": "klycnmik.com",
     "defangedValue": "klycnmik[.]com",
@@ -525,10 +525,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-ajkl8",
+    "id": "ind-tf-aqc4e",
     "type": "domain",
     "value": "ngrety.com",
     "defangedValue": "ngrety[.]com",
@@ -537,10 +537,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-rw486",
+    "id": "ind-tf-pawlm",
     "type": "ip",
     "value": "45.12.1.26:443",
     "defangedValue": "45[.]12[.]1[.]26:443",
@@ -549,10 +549,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-ycme8",
+    "id": "ind-tf-0scju",
     "type": "ip",
     "value": "45.12.1.25:443",
     "defangedValue": "45[.]12[.]1[.]25:443",
@@ -561,10 +561,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-v7r0t",
+    "id": "ind-tf-n1zjt",
     "type": "ip",
     "value": "45.12.1.24:443",
     "defangedValue": "45[.]12[.]1[.]24:443",
@@ -573,10 +573,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-hdwx6",
+    "id": "ind-tf-7407b",
     "type": "domain",
     "value": "kapuleti.com",
     "defangedValue": "kapuleti[.]com",
@@ -585,10 +585,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-01wg3",
+    "id": "ind-tf-5t1fp",
     "type": "domain",
     "value": "brikeb.com",
     "defangedValue": "brikeb[.]com",
@@ -597,10 +597,10 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   },
   {
-    "id": "ind-tf-gadzj",
+    "id": "ind-tf-t101h",
     "type": "domain",
     "value": "defenr.com",
     "defangedValue": "defenr[.]com",
@@ -609,6 +609,6 @@
     "threatType": "botnet_cc",
     "malware": "Cobalt Strike",
     "source": "abuse.ch ThreatFox IOC Feed",
-    "firstSeen": "2026-10-10T09:36:35.153Z"
+    "firstSeen": "2026-10-10T11:46:46.395Z"
   }
 ]
