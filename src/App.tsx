@@ -20,9 +20,28 @@ import { Analytics } from './pages/Analytics';
 import { ThreatActors } from './pages/ThreatActors';
 import { BriefingCenter } from './pages/BriefingCenter';
 
+// Phase 3 Pages & Extras
+import { Watchlists } from './pages/Watchlists';
+import { IocLookup } from './pages/IocLookup';
+import { CaseBoard } from './pages/CaseBoard';
+import { CommandPalette } from './components/extras/CommandPalette';
+
 export const AppContent: React.FC = () => {
   const [mobileSidebarOpen, setMobileSidebarOpen] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const [commandPaletteOpen, setCommandPaletteOpen] = useState(false);
+
+  // Global Cmd+K / Ctrl+K keyboard shortcut listener
+  React.useEffect(() => {
+    const handleKeyDown = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') {
+        e.preventDefault();
+        setCommandPaletteOpen((prev) => !prev);
+      }
+    };
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, []);
 
   return (
     <div className="flex h-screen bg-slate-950 text-slate-100 overflow-hidden font-sans">
@@ -35,6 +54,7 @@ export const AppContent: React.FC = () => {
         <Header
           onToggleMobileSidebar={() => setMobileSidebarOpen(!mobileSidebarOpen)}
           onOpenSettings={() => setSettingsOpen(true)}
+          onOpenCommandPalette={() => setCommandPaletteOpen(true)}
         />
 
         <StaleBanner />
@@ -54,6 +74,11 @@ export const AppContent: React.FC = () => {
             <Route path="/actors" element={<ThreatActors />} />
             <Route path="/briefing" element={<BriefingCenter />} />
 
+            {/* Phase 3 Routes */}
+            <Route path="/watchlists" element={<Watchlists />} />
+            <Route path="/ioc-lookup" element={<IocLookup />} />
+            <Route path="/cases" element={<CaseBoard />} />
+
             {/* Fallback */}
             <Route path="*" element={<Navigate to="/" replace />} />
           </Routes>
@@ -63,6 +88,15 @@ export const AppContent: React.FC = () => {
       <SettingsModal
         isOpen={settingsOpen}
         onClose={() => setSettingsOpen(false)}
+      />
+
+      <CommandPalette
+        isOpen={commandPaletteOpen}
+        onClose={() => setCommandPaletteOpen(false)}
+        onOpenSettings={() => {
+          setCommandPaletteOpen(false);
+          setSettingsOpen(true);
+        }}
       />
     </div>
   );

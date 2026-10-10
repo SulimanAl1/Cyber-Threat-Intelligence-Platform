@@ -5,11 +5,11 @@ import { useData } from '../../context/DataContext';
 interface Props {
   onToggleMobileSidebar: () => void;
   onOpenSettings: () => void;
-  onOpenCommandPalette?: () => void;
+  onOpenCommandPalette: () => void;
 }
 
-export const Header: React.FC<Props> = ({ onToggleMobileSidebar, onOpenSettings }) => {
-  const { theme, toggleTheme, meta, isStale, refreshData, searchQuery, setSearchQuery } = useData();
+export const Header: React.FC<Props> = ({ onToggleMobileSidebar, onOpenSettings, onOpenCommandPalette }) => {
+  const { theme, toggleTheme, meta, isStale, refreshData, searchQuery } = useData();
 
   const dataAgeHours = meta
     ? Math.max(0, Math.round((Date.now() - new Date(meta.generatedAt).getTime()) / (1000 * 60 * 60)))
@@ -42,17 +42,23 @@ export const Header: React.FC<Props> = ({ onToggleMobileSidebar, onOpenSettings 
         </div>
       </div>
 
-      {/* Global search */}
+      {/* Global search and Command Palette Trigger */}
       <div className="flex-1 max-w-md mx-2 hidden md:block">
-        <div className="relative">
-          <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2" />
+        <div
+          onClick={onOpenCommandPalette}
+          className="relative cursor-pointer group"
+        >
+          <Search className="w-4 h-4 text-slate-400 absolute left-3 top-1/2 -translate-y-1/2 group-hover:text-cyan-400 transition-colors" />
           <input
             type="text"
+            readOnly
             value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            placeholder="Global search (CVE, actor, organization, sector)..."
-            className="w-full pl-9 pr-4 py-1.5 text-xs rounded-lg bg-slate-950 border border-slate-800 focus:border-cyan-500 text-slate-100 placeholder-slate-500 focus:outline-none transition-colors"
+            placeholder="Quick search or Cmd+K (CVE, actor, page)..."
+            className="w-full pl-9 pr-14 py-1.5 text-xs rounded-lg bg-slate-950 border border-slate-800 group-hover:border-slate-700 text-slate-100 placeholder-slate-500 cursor-pointer focus:outline-none transition-colors"
           />
+          <div className="absolute right-2.5 top-1/2 -translate-y-1/2 text-[10px] font-mono px-1.5 py-0.5 rounded bg-slate-800 text-slate-400 border border-slate-700">
+            ⌘K
+          </div>
         </div>
       </div>
 

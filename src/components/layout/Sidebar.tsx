@@ -13,6 +13,7 @@ import {
   FileCheck2,
   Bookmark,
   Fingerprint,
+  FolderKanban,
   X
 } from 'lucide-react';
 import { useData } from '../../context/DataContext';
@@ -45,7 +46,8 @@ export const Sidebar: React.FC<Props> = ({ mobileOpen, onCloseMobile }) => {
 
   const navSection3 = [
     { to: '/watchlists', label: 'Watchlists & Alerts', icon: Bookmark, badge: null },
-    { to: '/ioc-lookup', label: 'Local IOC Lookup', icon: Fingerprint, badge: null }
+    { to: '/ioc-lookup', label: 'Local IOC Lookup', icon: Fingerprint, badge: null },
+    { to: '/cases', label: 'Case Comparison', icon: FolderKanban, badge: null }
   ];
 
   return (
